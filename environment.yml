@@ -7,4 +7,4 @@ dependencies:
   - matplotlib
   - pandas
   - pip:	
-    - pycomlink
+    - git+https://bitbucket.org/cchwala/pycomlink.git
