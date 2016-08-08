@@ -1,10 +1,10 @@
 name: pycml_env
 
-dependencies:
-  - python
-  - numpy
-  - toolz
-  - matplotlib
-  - pandas
-  - pip:
-	- git+https://bitbucket.org/cchwala/pycomlink.git
+dependencies: 
+  - python 
+  - numpy 
+  - toolz 
+  - matplotlib 
+  - pandas 
+  - pip: 
+	- git+https://bitbucket.org/cchwala/pycomlink.git 
