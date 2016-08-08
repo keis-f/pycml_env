@@ -1,4 +1,1 @@
-proj4
 pandas
-cartopy
-pycomlink
