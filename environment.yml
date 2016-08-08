@@ -6,6 +6,6 @@ dependencies:
   - toolz 
   - matplotlib 
   - pandas 
-  - scitools cartopy 
   - pip: 
+    - git+https://github.com/SciTools/cartopy
     - git+https://bitbucket.org/cchwala/pycomlink.git 
