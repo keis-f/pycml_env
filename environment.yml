@@ -1,0 +1,10 @@
+name: pycml_env
+
+dependencies:
+  - python
+  - numpy
+  - toolz
+  - matplotlib
+  - pandas
+  - pip:	
+    - pycomlink
