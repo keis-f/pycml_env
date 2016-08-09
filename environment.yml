@@ -14,5 +14,6 @@ dependencies:
   - proj.4
   - seaborn
   - anaconda 
+  - cartopy
   - pip: 
     - git+https://bitbucket.org/cchwala/pycomlink.git 
