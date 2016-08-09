@@ -8,5 +8,5 @@ dependencies:
   - pandas 
   - pyproj 
   - pip: 
-    - git+https://github.com/SciTools/cartopy
+    - git+https://github.com/SciTools/cartopy.git@master#egg=cartopy
     - git+https://bitbucket.org/cchwala/pycomlink.git 
