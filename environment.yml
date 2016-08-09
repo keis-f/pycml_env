@@ -1,13 +1,17 @@
 name: pycml_env
 
 dependencies: 
-  - python 
+  - python=2.7 
   - numpy 
   - toolz 
   - matplotlib 
   - pandas 
   - pyproj 
-  - cython 
-  - -c scitools cartopy
+  - cython
+  - gdal
+  - geos
+  - proj.4
+  - seaborn
+  - anaconda 
   - pip: 
     - git+https://bitbucket.org/cchwala/pycomlink.git 
