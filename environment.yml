@@ -7,6 +7,8 @@ dependencies:
   - matplotlib 
   - pandas 
   - pyproj 
+  - cython
+  - osgeo
   - pip: 
     - git+https://github.com/SciTools/cartopy.git@master#egg=cartopy
     - git+https://bitbucket.org/cchwala/pycomlink.git 
