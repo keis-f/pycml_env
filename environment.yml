@@ -1,5 +1,6 @@
 name: pycml_env
-
+channels:
+  - conda-forge
 dependencies: 
   - python=2.7 
   - numpy 
